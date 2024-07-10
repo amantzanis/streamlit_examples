@@ -51,10 +51,3 @@ st.header("Visualizations")
 st.subheader("Pairplot")
 sns.pairplot(iris_df, hue='species')
 st.pyplot(plt)
-
-# Scatter plot
-st.subheader("Scatter Plot")
-x_axis = st.selectbox("Select X-axis", iris.feature_names)
-y_axis = st.selectbox("Select Y-axis", iris.feature_names)
-sns.scatterplot(x=iris_df[x_axis], y=iris_df[y_axis], hue=iris_df['species'])
-st.pyplot(plt)
