@@ -19,7 +19,7 @@ https://docs.streamlit.io/develop/quick-reference/cheat-sheet
 
 * #### Go to streamlit.io and sign in with your github account.
 
-* #### Then lick create app on the top right corner
+* #### Then click create app on the top right corner
 
 * #### Click I already have an app .py file (you can browse the tamplates if you also like)
 
