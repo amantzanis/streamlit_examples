@@ -21,7 +21,7 @@ https://docs.streamlit.io/develop/quick-reference/cheat-sheet
 
 * #### Then click create app on the top right corner
 
-* #### Click I already have an app .py file (you can browse the tamplates if you also like)
+* #### Click I already have an app .py file (you can browse the templates if you also like)
 
 * #### Choose repo, branch and file path of your app.py file and click deploy!
 
