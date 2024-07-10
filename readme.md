@@ -24,3 +24,6 @@ https://docs.streamlit.io/develop/quick-reference/cheat-sheet
 * #### Click I already have an app .py file (you can browse the tamplates if you also like)
 
 * #### Choose repo, branch and file path of your app.py file and click deploy!
+
+## Example app link:
+https://appexamples-dmntjju6prb7fft7c2kpln.streamlit.app/
